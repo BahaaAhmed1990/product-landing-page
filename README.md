@@ -1,0 +1,1 @@
+This is practical appplication (freecodecamp exercise) using HTML5 , plain css , grid property and flexbox property. 
